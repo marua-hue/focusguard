@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="service_desc">Affiche un écran d\'attente avant l\'ouverture des applis choisies et bloque le scroll dans celles-ci. Aucune donnée n\'est collectée ni envoyée.</string>
+</resources>
